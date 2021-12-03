@@ -1,0 +1,5 @@
+[[build.buildpacks]]
+uri = "heroku/heroku-buildpack-apt"
+
+[[build.buildpacks]]
+uri = "https://github.com/knadh/listmonk-heroku"
